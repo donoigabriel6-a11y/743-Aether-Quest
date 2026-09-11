@@ -1,6 +1,6 @@
 #  Fork from the original github repo from the map 743⁺Aether*✧ ˳ ⁎ ¹¹¹} ⁺ . ˳
- Im bassically going to attempt porting this map to quest so people with vivify quest ports can play it normally cause people are gatekeeping
- To be honest I am doing this on a mac mini from 2014 running Windows 10. 
+Im bassically going to attempt porting this map to quest so people with vivify quest ports can play it normally cause people are gatekeeping,
+to be honest I am doing this on a mac mini from 2014 running Windows 10. 
 
 
 # Status
