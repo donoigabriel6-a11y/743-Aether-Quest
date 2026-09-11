@@ -5,9 +5,13 @@
 
 # Status
 [x] Downloading Unity Version
+,
 [ ] Went in map
+,
 [ ] Made the android bundle
+,
 [ ] Finishing Touches
+,
 [ ] Release It
  
 
