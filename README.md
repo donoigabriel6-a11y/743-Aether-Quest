@@ -1,4 +1,4 @@
-![Aether Quest Cover](Photos/Cover.jpeg)](https://github.com/donoigabriel6-a11y/743-Aether-Quest)
+![Aether Quest Cover](Photos/Cover.jpeg)
 #  Fork from the original github repo from the map 743⁺Aether*✧ ˳ ⁎ ¹¹¹} ⁺ . ˳
 Im bassically going to attempt porting this map to quest so people with vivify quest ports can play it normally cause people are gatekeeping,
 to be honest I am doing this on a mac mini from 2014 running Windows 10. 
