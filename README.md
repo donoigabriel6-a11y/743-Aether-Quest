@@ -9,7 +9,7 @@ Btw this WILL NOT have AI code in it.
 
 [🟢] Downloading Unity Version
 ,
-[🔴] Went in map
+[🟢] Went in map
 ,
 [🔴] Made the android bundle
 ,
