@@ -1,8 +1,5 @@
 ![Aether Quest Cover](Photos/Cover.jpeg)
-#  Fork from the original github repo from the map 743⁺Aether*✧ ˳ ⁎ ¹¹¹} ⁺ . ˳
-Im bassically going to attempt porting this map to quest so people with vivify quest ports can play it normally cause people are gatekeeping,
-to be honest I am doing this on a mac mini from 2014 running Windows 10. 
-Btw this WILL NOT have AI code in it.
+# Cancelled
 
 
 # Status
@@ -18,7 +15,7 @@ Btw this WILL NOT have AI code in it.
 [🟢] Finishing Touches
 ,
 [🟢] Release It,
-Map is now done! It is a bit buggy but works mostly.
+
  
 
 # If you dont already have a vivify port for quest I would highly recemend this one [NOT BY ME!]
