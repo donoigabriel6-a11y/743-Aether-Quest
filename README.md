@@ -14,7 +14,7 @@
 ,
 [🟢] Finishing Touches
 ,
-[🟢] Release It,
+[🔴] Release It,
 
  
 
