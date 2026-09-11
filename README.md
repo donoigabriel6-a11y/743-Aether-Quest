@@ -17,7 +17,7 @@ Btw this WILL NOT have AI code in it.
 ,
 [🟢] Finishing Touches
 ,
-[🟢] Release It
+[🟢] Release It,
 Map is now done! It is a bit buggy but works mostly.
  
 
