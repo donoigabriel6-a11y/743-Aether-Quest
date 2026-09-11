@@ -11,7 +11,7 @@ Btw this WILL NOT have AI code in it.
 ,
 [🟢] Went in map
 ,
-[🔴] Made the android bundle
+[🟡] Made the android bundle
 ,
 [🔴] Finishing Touches
 ,
