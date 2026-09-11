@@ -18,6 +18,8 @@ Btw this WILL NOT have AI code in it.
 [🔴] Release It
  
 
+# If you dont already have a vivify port for quest I would highly recemend this one [NOT BY ME!]
+https://github.com/trail-b1az3r/vivify-quest
 
 # Original ReadMe Below
 
