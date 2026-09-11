@@ -13,11 +13,12 @@ Btw this WILL NOT have AI code in it.
 ,
 [🟢] Made the android bundle
 ,
-[🟡] Testing
+[🟢] Testing
 ,
-[🔴] Finishing Touches
+[🟢] Finishing Touches
 ,
-[🔴] Release It
+[🟢] Release It
+Map is now done! It is a bit buggy but works mostly.
  
 
 # If you dont already have a vivify port for quest I would highly recemend this one [NOT BY ME!]
